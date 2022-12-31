@@ -20,7 +20,9 @@ author: FunSat
 ###############################################
 
 navbar-links:
+  Home: "index"
   About Me: "aboutme"
+
  # Resources:
  #   - Beautiful Jekyll: "https://beautifuljekyll.com"
  #   - Learn markdown: "https://www.markdowntutorial.com/"
