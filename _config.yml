@@ -20,10 +20,8 @@ author: FunSat
 ###############################################
 
 navbar-links:
-  Home: "index"
-
-  Minecraft:
-
+   Home: "index"
+   Minecraft:
      - Texture pack:
      - Mod Pack :
      - Maps :
