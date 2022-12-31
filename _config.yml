@@ -21,13 +21,14 @@ author: FunSat
 
 navbar-links:
   Home: "index"
-  About Me: "aboutme"
+
   Minecraft:
-     - Resource Pack:
-           - Texture pack:
-           - Mod Pack :
-           - Maps :
-           - Seeds :
+
+     - Texture pack:
+     - Mod Pack :
+     - Maps :
+     - Seeds :
+   About Me: "aboutme"
  # Resources:
  #   - Beautiful Jekyll: "https://beautifuljekyll.com"
  #   - Learn markdown: "https://www.markdowntutorial.com/"
